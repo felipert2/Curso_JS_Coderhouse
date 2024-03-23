@@ -1,7 +1,8 @@
-let nome = prompt('Digite um nome: (Para sair, digite SAIR)')
+// let nome = prompt('Digite um nome: (Para sair, digite SAIR)')
 
-while (nome != 'SAIR'){
-    console.log(`O Nome digitado foi ${nome}`)
+// while (nome != 'SAIR'){
+//     console.log(`O Nome digitado foi ${nome}`)
 
-    nome = prompt ('Digite um nome: (Para sair, digite SAIR)')
-}
+//     nome = prompt ('Digite um nome: (Para sair, digite SAIR)')
+// }
+
